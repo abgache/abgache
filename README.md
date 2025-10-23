@@ -3,4 +3,4 @@
 ### Go check out my Favourite project, [Genmoji](https://github.com/abgache/Genmoji)  
 ### I'm Python, C# (unity), and FrontEnd (HTML + CSS) Developer  
 ### 📫 Discord: abgache  
-### 🌐 Website : https://abgache.pro  
+### 🌐 Website: https://abgache.pro  
