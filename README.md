@@ -1,6 +1,7 @@
 # Hi there I'm abgache👋
 ### I'm still in High School, I'm a machine learning fan.  
 ### Go check out my Favourite project, [Genmoji](https://github.com/abgache/Genmoji)  
+### Or the one Im actually working on, [NanoGPL](https://github.com/abgache/NanoGPL)  
 ### I'm Python, C# (unity), and FrontEnd (HTML + CSS) Developer 
 
 ---
