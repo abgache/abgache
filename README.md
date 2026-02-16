@@ -4,6 +4,8 @@
 ### Go check out my Favourite project, [Genmoji](https://github.com/abgache/Genmoji)  
 ### Or the one Im actually working on, [NanoGPL](https://github.com/abgache/NanoGPL)  
 ### I'm Python, C# (unity), and FrontEnd (HTML + CSS) Developer 
+> [!WARNING]
+> The discord @abgache is BAN, add me on @4bgache
 
 ---
 
@@ -18,5 +20,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=abgache&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📫 Discord: abgache  
+### 📫 Discord: 4bgache  
 ### 🌐 Website: https://abgache.ink  
