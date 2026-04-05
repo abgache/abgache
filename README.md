@@ -20,5 +20,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=abgache&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📫 Discord: 4bgache  
+### 📫 Discord: [4bgache](https://discord.com/users/1342450649714917397)  
 ### 🌐 Website: [abgache.ink](https://abgache.ink/?src=gh)  
