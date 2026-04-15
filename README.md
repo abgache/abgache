@@ -1,6 +1,6 @@
 # Hi there I'm abgache👋
 [![NoSkid Verification](https://noskid.today/badge/100x30/?repo=douxxtech/douxxtech)](https://noskid.today)  
-### I'm still in High School, I'm a machine learning fan.  
+### I'm still in High School, I'm a future pentester.  
 ### Go check out my Favourite project, [Genmoji](https://github.com/abgache/Genmoji)  
 ### Or the one Im actually working on, [NanoGPL](https://github.com/abgache/NanoGPL)  
 ### I'm Python, C# (unity), and FrontEnd (HTML + CSS) Developer 
