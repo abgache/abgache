@@ -8,6 +8,7 @@
 > The discord @abgache is BAN, add me on @4bgache
 
 ---
+<img src="https://tryhackme-badges.s3.amazonaws.com/Abgache.png" alt="Your Image Badge" />
 ![tryhackme stats](https://raw.githubusercontent.com/abgache/abgache/master/assets/thm_propic.png)
 
 ---
