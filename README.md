@@ -8,7 +8,8 @@
 > The discord @abgache is BAN, add me on @4bgache
 
 ---
-![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/abgache/abgache/master/assets/thm_propic.png)
+
 ---
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
