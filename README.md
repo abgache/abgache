@@ -1,7 +1,7 @@
 # Hi there I'm abgache👋
 [![NoSkid Verification](https://noskid.today/badge/100x30/?repo=douxxtech/douxxtech)](https://noskid.today)  
 ### I'm still in High School, I'm a futur pentester.  
-### I'm Python, C# (unity), and FrontEnd (HTML + CSS) Developer 
+### I'm Python, C, C# (unity) & FrontEnd (HTML + CSS) Developer 
 > [!WARNING]
 > The discord @abgache is BAN, add me on @4bgache
 
