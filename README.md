@@ -4,7 +4,7 @@
 ### I love cyber security & machine learning  
 ### I'm a Python, C, C# (unity) & FrontEnd (HTML + CSS) Developer 
 > [!WARNING]
-> The discord @abgache is BAN, add me on @4bgache
+> Both @abgache & @4bgache are banned from discord.
 
 ---
 
@@ -19,6 +19,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=abgache&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📫 Discord: [4bgache](https://discord.com/users/1342450649714917397)  
+### 📫 Telegram: [abgache](http://t.me/abgache)  
 ### 🖥️ TryHackMe: [abgache](https://tryhackme.com/p/Abgache)    
 ### 🌐 Website: [abgache.ink](https://abgache.ink/?src=gh)  
