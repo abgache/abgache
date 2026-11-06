@@ -15,11 +15,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=abgache&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?username=abgache&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abgache&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=abgache&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=abgache&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 **Im kinda inactive on tryhackme which explains my capability score**  
-[![TryHackMe Badge](https://visitcount.itsvg.in/api?id=abgache&icon=0&color=0)](https://visitcount.itsvg.in)
+![TryHackMe Badge](https://tryhackme.com/badge/t/5a50a3c383f365bc8a76358250dd30b1564c02e54b172143624a1d6a2e8979030a2f2b571a507f11a67a5fa8c93d09fa/embed?theme=dark)
 
 ### 📫 Telegram: [abgache](http://t.me/abgache)  
 ### 🖥️ TryHackMe: [abgache](https://tryhackme.com/p/Abgache)    
